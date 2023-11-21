@@ -18,6 +18,7 @@ OPENAI_API_KEY='sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 ```bash
 cd path/to/your/directory
 git clone https://github.com/w3kasper/talkbot.git
+cd talkbot
 npm install
 npm run dev
 ```
