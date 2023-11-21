@@ -12,7 +12,7 @@ react-speech-recognition: https://www.npmjs.com/package/react-speech-recognition
 Create an .env.local to your project and add your Open AI API Key (https://help.openai.com/en/articles/4936850-where-do-i-find-my-api-key).
 It should look like this:
 
-OPENAI_API_KEY='sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+OPENAI_API_KEY='xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 
 ```bash
